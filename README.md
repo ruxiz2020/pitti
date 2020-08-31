@@ -4,15 +4,15 @@
 ### The personal library builder
 ![Pitti Palace](img/pitti.jpeg)
 
-This python library is meant to be a personal research topic library builder. It contains 2 parts:
+#### This python library is meant to be a personal research topic library builder. It contains 2 parts:
 
 1. The backend part that collects, processes and indexes the text files with regarding to one (or multiple) research topic;
 2. The frontend UI that display the library with visualized dashboard;
 
-This library builder is designed to solve the following problem:
+#### This library builder is designed to solve the following problem:
 
 * Easy personal knowledge library building in automatic way;
-* Visualized knowledge base that enhances knowledge building, memorization, and searching; 
+* Visualized knowledge base that enhances knowledge building, memorization, and searching;
 
 
 ### references
